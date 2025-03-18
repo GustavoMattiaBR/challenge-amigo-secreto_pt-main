@@ -31,6 +31,7 @@ O nome sorteado será exibido na tela.
 Melhorias Futuras:
 Adicionar opção para remover nomes da lista.
 Permitir exportação da lista para um arquivo.
+
 Autor - Gustavo Mattia
 Este projeto foi desenvolvido para fins educacionais e pode ser modificado conforme necessário.
 
